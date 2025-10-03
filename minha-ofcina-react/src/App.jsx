@@ -161,7 +161,7 @@ function App() {
     andar: 1,
     vidaMaximaDoMonstro: 50,
     vidaDoMonstro: 50,
-    recompensaDoMonstro: 10,
+    recompensaDoMonstro: 300,
     isBonusAtaqueAtivo: false,
     dinheiroPorClique: 1,
     pocoesDeVida: 0,
